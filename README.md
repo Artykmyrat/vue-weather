@@ -1,14 +1,12 @@
 # weather
 
-This template should help get you started developing with Vue 3 in Vite.
+The simple project in vue whitch helps you to understand composition api and axios
 
-## Recommended IDE Setup
+## Clone Project
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+```sh
+git clone https://github.com/Artykmyrat/vue-weather.git
+```
 
 ## Project Setup
 
@@ -16,7 +14,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compile  for Development
 
 ```sh
 npm run dev
@@ -26,10 +24,4 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
