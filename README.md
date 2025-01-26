@@ -14,13 +14,9 @@ git clone https://github.com/Artykmyrat/vue-weather.git
 npm install
 ```
 
-### Compile  for Development
-
 ```sh
 npm run dev
 ```
-
-### Compile and Minify for Production
 
 ```sh
 npm run build
